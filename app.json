@@ -1,0 +1,28 @@
+{
+  "id": "0878D471-0889-4041-814C-2B179B390147",
+  "name": "AL_Project",
+  "publisher": "Default publisher",
+  "version": "11.0.0.0",
+  "brief": "AL Project - Flex Desk",
+  "description": "This is my Flex Desk Project.",
+  "privacyStatement": "https://agiles.com/en/dataprotection/",
+  "EULA": "http://info.agiles.com/en/agilesapps-eula/",
+  "help": "http://info.agiles.com/en/agilesapps-help/",
+  "url": "http://agiles.de",
+  "logo": "res/picture/logo/agiles.png",
+  "features": ["TranslationFile", "ExcludeGeneratedTranslations"],
+  "target": "Cloud",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50350,
+      "to": 50400
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject-FlexDesk.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

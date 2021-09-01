@@ -1,0 +1,1089 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject-Flex Desk">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1994010956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled Release Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 3408688192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Desk Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 4249154013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Regular User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 1875973625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserved for</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Reserved For - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 3347900813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Status Set At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1994010956 - Field 1758035831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cancelled Release Info AGB - Field Status Set By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can not insert the same User on multible desks. User is already inserted on desk %1.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Desk Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You %1 are not an administrator, therefore you can not block or unblock desks.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Username</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - NamedType 672156893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot block this Desk because future reservations and/or releases have been made for this Desk. You will have to cancel them first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - NamedType Text003Err</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - NamedType 956639880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk User with future reserves can not set as Regular User. Please cancel reservation first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - NamedType Text004Err</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - NamedType 2643262487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>On a Desk with future reserves you can not set Regular User. Please cancel reservation first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - NamedType Text005Err</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 4249154013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Regular User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 3898773544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Regular User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 1594896662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Room Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 325246415 - Field 1766174699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk AGB - Field Room Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Date Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 3408688192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Desk Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 4249154013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Regular User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 1875973625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserved for</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Reserved For - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 3347900813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Status Set At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2368360295 - Field 1758035831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status AGB - Field Status Set By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Date Status Change Log Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 3408688192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field Desk Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 329134311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 2955941580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field New Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 3347900813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field Status Set At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2492897158 - Field 1758035831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk Date Status Change LE AGB - Field Status Set By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The username %1 can be set once only. Username is already set in desk user %2.</source>
+          <note from="Developer" annotates="general" priority="2"> %1 = user name, %2 = desk user code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are still %1 Reservations for this user. Do you want to delete anyway?</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Number of reservations for this user</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User aborted delete procedure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 707985127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 3286359479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flex Desk Administrator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field Flex Desk Administrator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 2954130438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No of Reserved Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field No of Reserved Desk Dates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 3280159546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Of Cancelled Released Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field No. Of Cancelled Released Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 2103412221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field Regular Desk - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 576382792 - Field 129688762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Desk User AGB - Field User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1699563202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1699563202 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment AGB - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1699563202 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment AGB - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1699563202 - Field 2865418010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Selection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment AGB - Field Search Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1699563202 - Field 2865418010 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,must,should not</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment AGB - Field Search Selection - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4292927669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Room AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4292927669 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Room AGB - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4292927669 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Room AGB - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1298920935 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Released Dates have been cancelled</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Number of released cancellation days</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Released Desks AGB - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1298920935 - NamedType 1068754970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Dates have not been Cancelled, because of wrong Status</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Released Desks AGB - NamedType Text002Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1298920935 - NamedType 2720473193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Dates have not been cancelled because You are not allowed</source>
+          <note from="Developer" annotates="general" priority="2">%1 = No of Not released Cancellation Days</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Released Desks AGB - NamedType Text003Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2268078600 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Dates have been cancelled</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Reserved Desks AGB - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2268078600 - NamedType 1068754970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Dates have not been Cancelled, because of wrong Status</source>
+          <note from="Developer" annotates="general" priority="2">%1 Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Reserved Desks AGB - NamedType Text002Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2268078600 - NamedType 2720473193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Dates have not been cancelled because You are not allowed</source>
+          <note from="Developer" annotates="general" priority="2">%1 =Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cancel Reserved Desks AGB - NamedType Text003Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 858535846 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The From Date %1 must not be behind To Date %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = FromDate, %2 = ToDate</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GetTimePeriodAGB - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 858535846 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date must be less Days than Work Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GetTimePeriodAGB - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 858535846 - NamedType 672156893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date and To Date must not be blank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GetTimePeriodAGB - NamedType Text003Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 4284026763" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are not allowed to release Desk %1. Only the Regular User %2 and the FlexDesk administrator are allowed.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Desk Code, %2 = Regular User Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text0001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 3104588990" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are not allowed to release Desk %1. Only the FlexDesk administrator is allowed.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Desk Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text0002Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 740049209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk is free for %1 new days.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = number of released days</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text0003Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 672156893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The From Date %1 must not be behind To Date %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = FromDate, %2 = ToDate</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text003Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 956639880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date must be less Days than Work Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text004Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 2643262487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date and To Date must not be blank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text005Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2448157101 - NamedType 1422248010" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not allowed to release blocked Desks.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Release Desk Dates AGB - NamedType Text006Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 914178458 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You %1 are Regular User of Desk %2 and not allowed to reserve other Desks</source>
+          <note from="Developer" annotates="general" priority="2">%1 = User Name, %2 Desk Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reserve Desks AGB - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 914178458 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk is reserved for %1 new days.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = number of reserved days</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reserve Desks AGB - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 914178458 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The User ID %1 is not assigned to a Desk User. You are not allowed to reserve Desks.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = User ID</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reserve Desks AGB - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 914178458 - NamedType 1068754970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Desk Dates have not been reserved, because you alreadey reserved other desks</source>
+          <note from="Developer" annotates="general" priority="2">%1 = No Of Not Reserved Desk Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reserve Desks AGB - NamedType Text002Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 914178458 - NamedType 2720473193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Desk Dates have not been reserved, because of wrong status</source>
+          <note from="Developer" annotates="general" priority="2">%1 = No Of Not Reserved Desk Dates</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reserve Desks AGB - NamedType Text003Msg</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled Release Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 4249154013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Regular User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 1875973625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Reserved For</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Reserved For - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 3347900813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Status Set At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Control 1758035831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Control Status Set By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Action 3915710541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to find a free desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Action Find DesksAGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1994010956 - Action 3915710541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cancelled Release Info AGB - Action Find DesksAGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 1954052022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Desk Dates Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select this field if you want to block this desk. Blocked desks can not be released. Only administrators are allowed to change this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 4249154013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Regular User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 3898773544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Regular User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 1594896662 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Room Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Control 1766174699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Control Room Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Action 4032263875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Action Release - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505380715 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Card AGB - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date %1 is too far in the future. The Maximum Date is %2.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = To Date, %2 = Maximum Date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The From Date %1 must not be behind To Date %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = FromDate, %2 = ToDate</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - NamedType 672156893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date must be less Days than Work Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - NamedType Text003Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - NamedType 956639880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date and To Date must not be blank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - NamedType Text004Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 2110632758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows From Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control From Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 2110632758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 2565971985 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control To Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 2565971985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 608647227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click this field if you want to see Reservable Entries only</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Only Reservable Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 608647227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only Reservable Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Only Reservable Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 4249154013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Regular User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 1875973625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Reserved For</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Reserved For - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 3347900813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Status Set At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Control 1758035831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Control Status Set By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 854718338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Reservation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action Cancel Reservation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 854718338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Reservation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action Cancel Reservation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 56958913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Canceled a Released Desk Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action CancelRelease - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 56958913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CancelRelease</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action CancelRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 825293260 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserve selected Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action Reserve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2368360295 - Action 825293260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Date Status AGB - Action Reserve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Dates Status Change Log Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 329134311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Entry No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control Entry No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 2955941580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the New Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control New Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 3347900813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control Status Set At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3259069904 - Control 1758035831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates St. Change LE AGB - Control Status Set By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 1875973625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Reserved For</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Reserved For - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 3347900813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Status Set At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Control 1758035831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Status Set By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Control Status Set By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 854718338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel selected Reserved Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Cancel Reservation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 854718338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Reservation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Cancel Reservation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 56958913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel selected Released Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action CancelRelease - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 56958913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action CancelRelease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 1979318928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows Log Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Log - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 1979318928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 825293260 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserve selected Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Reserve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1785581219 - Action 825293260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Dates Status Subpage AGB - Action Reserve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 3408688192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Desk Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 4249154013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Regular User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 4249154013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Regular User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 1594896662 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Room Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 1594896662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Room Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 1766174699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Room Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 206335422 - Control 1766174699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Details Factbox AGB - Control Room Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk User Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 3545657118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control DeskDatesStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 3286359479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flex Desk Administrator is allowed to release Desks of other Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control Flex Desk Administrator - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 2954130438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the No of Reserved Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control No of Reserved Desk Dates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 3280159546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the No. Of Cancelled Released Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control No. Of Cancelled Released Info - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 2103412221 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the regular desk of the user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control Regular Desk - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3286183612 - Control 129688762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk User Card AGB - Control User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 3286359479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flex Desk Administrator is allowed to release Desks of other Users and to delete Desk Date Statses.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control Flex Desk Administrator - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 3280159546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the No. Of Cancelled Released Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control No. Of Cancelled Released Info - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 2103412221 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the regular desk of the user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control Regular Desk - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2390423417 - Control 129688762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desk Users AGB - Control User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select this field if you want to block this desk. Blocked desks can not be released. Only administrators are allowed to change this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 4249154013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Regular User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 3898773544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Regular User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Regular User Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 1594896662 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Room Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Control 1766174699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Control Room Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Action 4032263875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Action Release - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1917133290 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Desks AGB - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1078711871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipments AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1078711871 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipments AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1078711871 - Control 2672666321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipments AGB - Control Descripton - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Desk Dates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 1826403361 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the time period (From/To Date) You want to release your Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control Dates - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 2110632758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the From Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control From Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 2110632758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 2565971985 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control To Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 2565971985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 3408688192 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control Desk Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 3408688192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desk Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control Desk Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 1631617913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Room</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control Room - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2448157101 - Control 1631617913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Room</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Release Desk Dates AGB - Control Room - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3121109404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rooms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rooms AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3121109404 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rooms AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3121109404 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rooms AGB - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1385496674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Equipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Equipment AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1385496674 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Equipment AGB - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1385496674 - Control 2672666321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Equipment AGB - Control Descripton - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1385496674 - Control 2865418010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Selection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Equipment AGB - Control Search Selection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 3554510710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Flex Desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Flex Desk AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 3915710541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Click to find a free desk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Find DesksAGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 3915710541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Find Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Find DesksAGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 2798968717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action SetupAGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 3238031860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Click to create Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Create Data AGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 3238031860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Create Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Create Data AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 325246415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Show Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Desk AGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 325246415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Desks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Desk AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 576382792 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Show Desk Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Desk User AGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 576382792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Desk Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Desk User AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 4292927669 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Show Rooms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Room AGB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1582944983 - Action 4292927669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2747922353">
+          <source>Rooms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Order Processor RC AGB - Action Room AGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3524543347 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status Desk AGB - EnumValue Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3524543347 - EnumValue 791405082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status Desk AGB - EnumValue Released Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3524543347 - EnumValue 853190005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status Desk AGB - EnumValue Reservation Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3524543347 - EnumValue 2372071504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reserved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status Desk AGB - EnumValue Reserved - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
